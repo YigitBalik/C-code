@@ -10,7 +10,7 @@ bool game(char *file_name){
 	system("clear");
 	printf("\n--------Welcome to the SpyFy--------\n");
 	printf("1. Edit Game\n");
-	printf("2. Strart Game\n");
+	printf("2. Start Game\n");
 	printf("3. Exit Game\n");
 	int selection = 0;
 	printf("Selection: ");
